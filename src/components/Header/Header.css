@@ -1,0 +1,6 @@
+#logo{width: 80px;}
+.tech{color: white;font-size: 30px;font-weight: 600;margin-top: 10px;}
+#navbar{background-color: black;position: sticky;z-index: 1;top: 0;}
+.nav-link{font-family: sans-serif;font-weight: 600; cursor: pointer ; font-size: 18px;color: white;}
+#shop{font-weight: 600; cursor: pointer ; font-size: 25px;margin-top: 1rem;color: white;}
+.css-1y8627i-MuiBadge-badge{margin-top: 5px;}

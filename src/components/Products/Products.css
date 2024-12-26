@@ -1,0 +1,8 @@
+.title9{text-align: center;}
+.price{text-align: center;}
+.top:hover .card-img-top{transform: scale(1.1);transition: 1s;cursor: pointer;}
+.card{margin-top: 2rem;border:2px solid  #eac38a;padding: 20px;}
+.details{text-align: center; margin-top: 5px; margin-bottom: 5px;}
+#productDetails{text-decoration: none;color: #29659c;}
+#btn8{background-color: #f9d697;width: 100%;padding: 10px;margin-top: 5px;outline: none;border: 1px solid #901913;border-radius: 20px;}
+#btn8:hover{background-color: coral;transition: 1s;}

@@ -1,0 +1,26 @@
+
+
+
+/* Container for the banner */
+.banner-container {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  /* Make the image responsive */
+  .banner-image {
+    width: 100%;
+    margin-top: 3rem;
+    height: auto;
+    object-fit: cover; /* Ensures the image covers the container */
+  }
+  
+  /* Optional: Style for small screens */
+  @media (max-width: 768px) {
+    .banner-image {
+      object-position: center;
+    }
+  }
+  
